@@ -1,8 +1,10 @@
-# rmac2022-python
+# rmacc2022-python
 
-Materials for Python for Beginners class.
+# Python for Beginners
+
+Materials for Python for Beginners class.  
 Presented by Brett Milash of the Center for High Performance Computing
-at the University of Utah.
+at the University of Utah.  
 brett.milash@utah.edu
 
 Run this interactively at:
