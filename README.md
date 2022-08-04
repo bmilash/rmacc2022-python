@@ -8,4 +8,4 @@ at the University of Utah.
 brett.milash@utah.edu
 
 Run this interactively at:
-https://mybinder.org/v2/gh/bmilash/rmac2022-python/main
+https://mybinder.org/v2/gh/bmilash/rmacc2022-python/HEAD
